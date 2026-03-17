@@ -96,9 +96,8 @@ v0 is an AI agent that helps you create and refine code, full-stack apps, and ag
 - Refine designs, update copy, and iterate on this app with prompts.
 - Create live prototypes and ship to production or open a pull request for review.
 
-Redeem the coupon at v0.app to get the $30 credit, then use v0 to polish Safeguard’s UI, add features, or spin up variants.
-
 ## Hackathon notes
 
 - Uses **NVIDIA Nemotron** (vision) as required for the prize.
 - One route: image + location in → analysis + safest location + emergency numbers out.
+
