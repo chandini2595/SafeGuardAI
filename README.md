@@ -87,17 +87,3 @@ vercel
 
 Follow the prompts and add `OPENROUTER_API_KEY` when asked or in the Vercel dashboard.
 
-## Ship with Vercel's v0 (Hackathon perk)
-
-**$30 credit — [v0.app](https://v0.app) — Coupon code: `NVIDIA_V0`**
-
-v0 is an AI agent that helps you create and refine code, full-stack apps, and agents. You can:
-
-- Refine designs, update copy, and iterate on this app with prompts.
-- Create live prototypes and ship to production or open a pull request for review.
-
-## Hackathon notes
-
-- Uses **NVIDIA Nemotron** (vision) as required for the prize.
-- One route: image + location in → analysis + safest location + emergency numbers out.
-
